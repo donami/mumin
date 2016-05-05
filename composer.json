@@ -2,5 +2,6 @@
     "require": {
         "mos/cdatabase": "dev-master",
         "anax/mvc": "dev-master"
-    }
+    },
+    "minimum-stability": "dev"
 }
